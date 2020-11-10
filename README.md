@@ -30,9 +30,7 @@ If you have any questions, please feel free to email support@thezig.io. We will 
 Once the challenge is complete, please push the code up to a new private repo and grant access to the following email addresses for code review 
 
         - chilch  
-        - manolivier93@gmail.com    
         - musukwamoshi@gmail.com    
-        - mbmakayi@gmail.com
         - mathews.chiza@gmail.com
         - maboshegerald1@gmail.com
         
