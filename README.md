@@ -31,8 +31,8 @@ Once the challenge is complete, please push the code up to a new private repo an
 
         - chilch  
         - musukwamoshi@gmail.com    
-        - mathews.chiza@gmail.com
-        - maboshegerald1@gmail.com
+        - yoramgondwe3rd@gmail.com
+        - dennism501
         
 ***Then email jobs@thezig.io with a link to your private repo and a copy of your resume.***
 
