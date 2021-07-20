@@ -33,6 +33,7 @@ Once the challenge is complete, please push the code up to a new private repo an
         - musukwamoshi@gmail.com    
         - yoramgondwe3rd@gmail.com
         - dennism501
+        - thulani196
         
 ***Then email jobs@thezig.io with a link to your private repo and a copy of your resume.***
 
