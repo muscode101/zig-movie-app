@@ -32,10 +32,11 @@ Once the challenge is complete, please push the code up to a new private repo an
         - chilch  
         - musukwamoshi@gmail.com    
         - yoramgondwe3rd@gmail.com
-        - dennism501
-        - thulani196
-        
-***Then email jobs@thezig.io with a link to your private repo and a copy of your resume.***
+        - thulani196 or thembothulani96@outlook.com
+
+## Submission
+
+***Then fill in this [form](https://forms.office.com/r/PjMPpEUvqt) with a link to your private repo and your email.***
 
 ## Requirements
 
@@ -49,6 +50,7 @@ Once the challenge is complete, please push the code up to a new private repo an
     2. api/search?query=birdbox - Returns movies where the title matches parts of the query string (for the search field)
     3. /api/movie/1145 - Returns a single movie by Movie Id (for use by the detail page)
 7. Add Unit tests for the Controllers and Repos
+8. Client side code should be written in TypeScript
 
 ## Hints
 
@@ -59,14 +61,14 @@ Once the challenge is complete, please push the code up to a new private repo an
 ## Tech
 
 The technologies used to build this app are: 
-Client-Side - ReactJS, Webpack
+Client-Side - ReactJS, Webpack, TypeScript
 Server-Side - .NET Core Web Api 
 
 ## Bonus Points
     
 1. Using Singleton Pattern for the Http Client that access the Movie API (Server-Side)
 2. Using Inversion of Control (aka Dependency Injection) throughout on the (Server-Side)
-3. Using Redux to manage state (Client-Side)
+3. Using React Hooks or Redux to manage state (Client-Side)
 4. Using React Router DOM for routing (Client-Side)
 5. Use bootstrap for styling the website (Client-Side)
 6. Add Swagger UI to document your API create a new API key and it will be listed under the heading "API Key (v3 auth)" 
