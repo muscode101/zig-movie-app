@@ -31,7 +31,6 @@ Once the challenge is complete, please push the code up to a new private repo an
 
         - chilch  
         - musukwamoshi@gmail.com    
-        - yoramgondwe3rd@gmail.com
         - thulani196 or thembothulani96@outlook.com
 
 ## Submission
